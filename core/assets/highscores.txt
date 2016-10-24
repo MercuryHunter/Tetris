@@ -1,0 +1,28 @@
+Jonathan#17880
+Player 1#10000
+Player 2#5000
+Jonathan#4700
+me#4380
+Player 3#4000
+J2#3600
+Player 4#3000
+Player 5#2500
+Player 6#2000
+Player 7#1500
+Player 8#1000
+Player 9#500
+wow#240
+no#160
+Jonathan#100
+Player 10#100
+#40
+hello#40
+q#0
+Jonathan#0
+Me#0
+other#0
+no#0
+q#0
+getting there#0
+null#0
+cancel#0
